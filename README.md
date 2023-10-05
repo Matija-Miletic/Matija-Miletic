@@ -119,7 +119,7 @@ Customizable Text: The text "Live, Laugh, Love" can be customized.
  lari
  caleb rapson 
 
-5. Personal Blog
+# 5. Personal Blog
 https://github.com/Matija-Miletic/matija-miletic.github.io
 
 **Overview**
