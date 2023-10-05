@@ -1,9 +1,9 @@
-Hey, I'm Matija! 🌟   
+# Hey, I'm Matija! 🌟  
 
 I'm a fullstack web developer who's all about creating fun projects with clean and functional code.   
 
 
-About Me   
+## About Me   
 
 - 💻 Fullstack Web Developer
 - 🔭 I’m currently working on a personal website/portfolio
@@ -12,15 +12,14 @@ About Me
 - 💬 Ask me about random science facts
 - 📫 How to reach me: right here on Github! or Linkedin - https://www.linkedin.com/in/matija-m-632163116/
 - ⚡ Fun fact: Carcinisation is described as "the many attempts of Nature to evolve a crab"
-   
 
 I'm on the lookout for an exciting team where I can keep learning, make meaningful contributions, and tackle fresh challenges. I'm particularly curious about opportunities in web development, blending my love for tech with my scientific background. Let's connect and explore the possibilities together!
    
 
-Check out my projects!
+## Check out my projects!
 
 
-    1. Beat Blocks
+    ## 1. Beat Blocks
 
 Overview
 
@@ -50,7 +49,7 @@ Matija Miletic
 Kate Hooker
 Cris Kiri
 
-   2. OnlyCats 🐱
+   ## 2. OnlyCats 🐱
 
 Overview
 
@@ -78,7 +77,7 @@ Contributors
  KadeVo
  yind48 
 
-    3. OnlyCrabs
+    ## 3. OnlyCrabs
 
 Overview
 
@@ -97,7 +96,7 @@ Contributors
  Cristopher Kiri
  zoe-proudfoot
 
-    4. LLLIT (Live, Laugh, Love IT)
+    ## 4. LLLIT (Live, Laugh, Love IT)
 
 Overview
 
@@ -116,7 +115,7 @@ Contributors
  lari
  caleb rapson 
 
-    5. Personal Blog
+    ## 5. Personal Blog
 
 Overview
 
