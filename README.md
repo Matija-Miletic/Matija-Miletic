@@ -10,7 +10,7 @@ I'm a fullstack web developer who's all about creating fun projects with clean a
 - 🌱 I’m currently learning shadcn
 - 👯 I’m looking to collaborate on anything related to ML/AI
 - 💬 Ask me about random science facts
-- 📫 How to reach me: right here on Github! or Linkedin - https://www.linkedin.com/in/matija-m-632163116/
+- 📫 How to reach me: Right here on Github! or Linkedin - https://www.linkedin.com/in/matija-m-632163116/
 - ⚡ Fun fact: Carcinisation is described as "the many attempts of Nature to evolve a crab"
 
 I'm on the lookout for an exciting team where I can keep learning, make meaningful contributions, and tackle fresh challenges. I'm particularly curious about opportunities in web development, blending my love for tech with my scientific background. Let's connect and explore the possibilities together!  
@@ -20,6 +20,7 @@ I'm on the lookout for an exciting team where I can keep learning, make meaningf
 
 
 # 1. Beat Blocks  
+https://github.com/Matija-Miletic/Beat-Blocks
 
 Overview
 
@@ -50,6 +51,7 @@ Kate Hooker
 Cris Kiri
 
 # 2. OnlyCats 🐱  
+https://github.com/Matija-Miletic/OnlyCats
 
 Overview
 
@@ -78,6 +80,7 @@ Contributors
  yind48 
 
 # 3. OnlyCrabs  
+https://github.com/Matija-Miletic/OnlyCrabs
 
 Overview
 
@@ -97,6 +100,7 @@ Contributors
  zoe-proudfoot
 
 # 4. LLLIT (Live, Laugh, Love IT)  
+https://github.com/frances-krsinich/lllit
 
 Overview
 
@@ -115,7 +119,8 @@ Contributors
  lari
  caleb rapson 
 
-5. Personal Blog  
+5. Personal Blog
+https://github.com/Matija-Miletic/matija-miletic.github.io
 
 Overview
 
