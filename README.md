@@ -49,7 +49,7 @@ Matija Miletic
 Kate Hooker
 Cris Kiri
 
-   ## 2. OnlyCats 🐱
+   ## 2. OnlyCats 🐱  
 
 Overview
 
@@ -77,7 +77,7 @@ Contributors
  KadeVo
  yind48 
 
-    ## 3. OnlyCrabs
+    ## 3. OnlyCrabs  
 
 Overview
 
@@ -96,7 +96,7 @@ Contributors
  Cristopher Kiri
  zoe-proudfoot
 
-    ## 4. LLLIT (Live, Laugh, Love IT)
+    ## 4. LLLIT (Live, Laugh, Love IT)  
 
 Overview
 
@@ -115,7 +115,7 @@ Contributors
  lari
  caleb rapson 
 
-    ## 5. Personal Blog
+    ## 5. Personal Blog  
 
 Overview
 
