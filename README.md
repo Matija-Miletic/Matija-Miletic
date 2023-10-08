@@ -1,6 +1,6 @@
 # Hi, I'm Matija! 🌟  
 
-Fullstack web developer who's all about creating fun projects with clean and functional code.   
+Fullstack web developer into creating fun projects with clean and functional code.   
 
 
 ## About Me
