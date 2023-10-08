@@ -6,12 +6,11 @@ Fullstack web developer into creating fun projects with clean and functional cod
 ## About Me
 
 - 💻 Fullstack Web Developer
-- 🧬 Refining my personal website/portfolio
 - 🌱 Currently learning tailwind & shadcn
+- 🧬 Refining my personal website/portfolio
 - 👀 Looking to collaborate on ML/AI related projects
-- 📚 Ask me about my book list
 - ✉️ Reach me right here on Github! or Linkedin - https://www.linkedin.com/in/matija-m-632163116/
-- 🎉 Fun fact: Crabs have evolved on earth at least 5 seperate times
+- 🤯 Fun fact: Crabs have evolved on earth at least 5 seperate times
 
 I'm on the lookout for an exciting team where I can keep learning, make meaningful contributions, and tackle fresh challenges. I'm particularly curious about opportunities in web development, blending my love for tech with my scientific background. Let's connect and explore the possibilities together!  
 
