@@ -1,15 +1,14 @@
 # Hi, I'm Matija! 🌟  
 
-Fullstack web developer into creating fun projects with clean and functional code.   
+Software developer into creating fun projects with clean and functional code.   
 
 
 ## About Me
 
 - 💻 Fullstack Web Developer
-- 🌱 Currently learning tailwind & shadcn
+- 🌱 Learning tailwind & shadcn
 - 🧬 Refining my personal website/portfolio
 - 👀 Looking to collaborate on ML/AI related projects
-- ✉️ Reach me on Linkedin - https://www.linkedin.com/in/matija-m-632163116/
 - 🤯 Fun fact: Crabs have evolved on earth at least 5 seperate times
 
 
