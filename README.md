@@ -3,7 +3,7 @@
 I'm a fullstack web developer who's all about creating fun projects with clean and functional code.   
 
 
-## About Me  
+## About Me
 
 - 💻 Fullstack Web Developer
 - 🔭 Refining my personal website/portfolio
