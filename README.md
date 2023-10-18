@@ -42,3 +42,4 @@ LLLIT is a web application that allows users to generate images with the text "L
 https://github.com/Matija-Miletic/matija-miletic.github.io
 
 My personal blog for Dev Academy built using HTML and CSS.  
+
