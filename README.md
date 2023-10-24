@@ -6,7 +6,7 @@ Software developer into creating fun projects with clean and functional code.
 ## About Me
 
 - 💻 Fullstack Web Developer
-- 🌱 Learning tailwind & shadcn
+- 🌱 Learning LLM implementation
 - 🧬 Refining my personal website/portfolio
 - 👀 Looking to collaborate on ML/AI related projects
 - 🤯 Fun fact: Crabs have evolved on earth at least 5 seperate times
