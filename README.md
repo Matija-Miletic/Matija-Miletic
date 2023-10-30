@@ -1,6 +1,6 @@
 # Hi, I'm Matija! 🌟  
 
-Software developer into creating fun projects with clean and happy code.   
+Software developer into creating fun projects with clean code.   
 
 
 ## About Me
